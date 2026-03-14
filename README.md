@@ -93,11 +93,6 @@ Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
 
 Replace `public/music.mp3` with your song
 
----
-
-## ��� Test Your Changes
-
-### Using the Test Button
 
 There's a special **"��� Test Celebration"** button on the countdown page that lets you skip the timer instantly!
 
